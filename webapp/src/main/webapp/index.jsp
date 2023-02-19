@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning, Hope to see you soon </h1>
+   <h1> Thankyou, Happy Learning, Hope to see you soon, trigger by poll scm </h1>
 
   
 </form>
